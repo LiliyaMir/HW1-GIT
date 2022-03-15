@@ -1,0 +1,57 @@
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{0}: checkout: moving from feature3 to feature4
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{1}: checkout: moving from feature2 to feature3
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{2}: checkout: moving from feature1 to feature2      
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{3}: checkout: moving from develop to feature1       
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{4}: checkout: moving from master to develop
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{5}: merge develop: Fast-forward
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{6}: checkout: moving from develop to master
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{7}: checkout: moving from feature4 to develop
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{8}: checkout: moving from develop to feature4
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{9}: checkout: moving from feature4 to develop
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{10}: checkout: moving from develop to feature4
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{11}: checkout: moving from feature3 to develop
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{12}: merge develop: Fast-forward
+f3039d4 HEAD@{13}: checkout: moving from develop to feature3
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{14}: merge feature4: Fast-forward
+f3039d4 HEAD@{15}: checkout: moving from feature4 to develop
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HE
+AD@{16}: rebase (finish): returning to refs/heads/feature4
+c0a454e (HEAD -> feature4, origin/master, origin/feature4, origin/feature3, origin/develop, master, feature3, develop) HEAD@{17}: rebase (pick): feature4
+f3039d4 HEAD@{18}: rebase (start): checkout develop
+107997c HEAD@{19}: checkout: moving from develop to feature4
+f3039d4 HEAD@{20}: merge feature3: Fast-forward
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{21}: checkout: moving from feature3 to develop      
+f3039d4 HEAD@{22}: checkout: moving from develop to feature3
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{23}: checkout: moving from feature3 to develop      
+f3039d4 HEAD@{24}: commit: feature3
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{25}: checkout: moving from feature4 to feature3
+107997c HEAD@{26}: commit: feature4
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{27}: checkout: moving from develop to feature4      
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{28}: checkout: moving from master to develop        
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{29}: merge develop: Fast-forward
+1a22467 HEAD@{30}: checkout: moving from feature2 to master
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{31}: merge develop: Fast-forward
+d4fc798 HEAD@{32}: checkout: moving from feature1 to feature2
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{33}: merge develop: Fast-forward
+827e2d8 HEAD@{34}: checkout: moving from feature2 to feature1
+d4fc798 HEAD@{35}: checkout: moving from feature1 to feature2
+827e2d8 HEAD@{36}: checkout: moving from develop to feature1
+680e614 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{37}: commit (merge): mistakes
+827e2d8 HEAD@{38}: merge feature1: Fast-forward
+ce74422 HEAD@{39}: checkout: moving from feature2 to develop
+d4fc798 HEAD@{40}: checkout: moving from feature1 to feature2
+827e2d8 HEAD@{41}: checkout: moving from feature2 to feature1
+d4fc798 HEAD@{42}: commit: add styles
+ce74422 HEAD@{43}: checkout: moving from develop to feature2
+ce74422 HEAD@{44}: checkout: moving from feature1 to develop
+827e2d8 HEAD@{45}: commit: add picture ot index
+4ad9473 HEAD@{46}: checkout: moving from develop to feature1
+ce74422 HEAD@{47}: checkout: moving from master to develop
+1a22467 HEAD@{48}: checkout: moving from feature1 to master
+4ad9473 HEAD@{49}: commit: add picture
+ce74422 HEAD@{50}: checkout: moving from develop to feature1
+ce74422 HEAD@{51}: checkout: moving from master to develop
+1a22467 HEAD@{52}: checkout: moving from develop to master
+ce74422 HEAD@{53}: commit: index.html
+1a22467 HEAD@{54}: checkout: moving from master to develop
+1a22467 HEAD@{55}: commit (initial): README.md
